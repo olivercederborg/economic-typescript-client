@@ -13,7 +13,7 @@ openapi-generator generate \
   --skip-validate-spec \
   --additional-properties="withNodeImports=true" \
   --additional-properties="withSeparateModelsAndApi=true" \
-  --additional-properties="npmName=economic-client-$name" \
+  --additional-properties="npmName=economic-$name-client" \
   --additional-properties="apiPackage=api" \
   --additional-properties="modelPackage=model" \
   --additional-properties="useSingleRequestParameter=true" \

@@ -1,7 +1,7 @@
 {
-  "name": "economic-client-accounts",
+  "name": "economic-accounts-client",
   "version": "3.0.1",
-  "description": "OpenAPI client for economic-client-accounts",
+  "description": "OpenAPI client for economic-accounts-client",
   "author": "OpenAPI-Generator Contributors",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "typescript",
     "openapi-client",
     "openapi-generator",
-    "economic-client-accounts"
+    "economic-accounts-client"
   ],
   "license": "Unlicense",
   "main": "./dist/index.js",
